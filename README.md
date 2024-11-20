@@ -36,7 +36,7 @@
 ---
 
 ## 📫 Contact Me
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
+- **Email**: [zxxv1245@naver.com](zxxv1245@naver.com)
 - **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
 - **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
