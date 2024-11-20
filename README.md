@@ -15,6 +15,7 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 ### ⚙️ Tools & Frameworks
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white)
@@ -25,7 +26,6 @@
 
 ### 🛠️ Backend & Others
 ![Django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 ---
 
