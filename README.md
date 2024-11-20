@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 💻 **Frontend Developer** with a passion for creating intuitive and responsive user interfaces.
 - 📚 Continuously learning and exploring the latest in web development.
-
+- SSAFY(2024.01 ~ 2024.12)
 ---
 
 ## 🛠️ Tech Stack
