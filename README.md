@@ -1,7 +1,7 @@
 # 👋 Hi there! Welcome to my GitHub Profile!
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxxv1245)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 # **Frontend Developer**
 - SSAFY(2024.01 ~ 2024.12)
 
@@ -35,7 +35,6 @@
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ---
 
