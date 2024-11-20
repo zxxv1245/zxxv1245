@@ -6,6 +6,7 @@
 - 💻 **Frontend Developer** with a passion for creating intuitive and responsive user interfaces.
 - 📚 Continuously learning and exploring the latest in web development.
 - SSAFY(2024.01 ~ 2024.12)
+
 ---
 
 ## 🛠️ Tech Stack
@@ -20,6 +21,10 @@
 ### 🛠️ Backend
 ![Django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
 
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### ⚙️ Tools
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white)
@@ -40,4 +45,3 @@
 - **Email**: [zxxv1245@naver.com](zxxv1245@naver.com)
 - **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
 - **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
