@@ -1,6 +1,5 @@
+[https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Input%20text&reversal=true&textBg=false](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=더%20나은%20사용자%20경험을%20위해%20끊임없이%20노력합니다&reversal=true&textBg=false&fontSize=30&fontAlign=50&animation=fadeIn)
 <div align="center">
-
-# 더 나은 사용자 경험을 위해 끊임없이 노력합니다
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxxv1245)
 
