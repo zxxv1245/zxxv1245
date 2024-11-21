@@ -4,11 +4,26 @@
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxxv1245)
 
-# **Frontend Developer**
-- SSAFY(2024.01 ~ 2024.12)
-- ADSP
-- SQLD
-
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h2>**Frontend Developer**</h2>
+      <ul>
+        <li>SSAFY(2024.01 ~ 2024.12)</li>
+        <li>ADSP</li>
+        <li>SQLD</li>
+      </ul>
+    </td>
+    <td align="center" width="50%">
+      <h2>📫 Contact Me</h2>
+      <ul>
+        <li>**Email**: [zxxv1245@naver.com](zxxv1245@naver.com)</li>
+        <li>**Portfolio**: []()</li>
+        <li>**Notion**: []()</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🛠️ Tech Stack
