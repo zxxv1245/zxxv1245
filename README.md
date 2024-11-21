@@ -7,7 +7,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <h2>**Frontend Developer**</h2>
+      <h2>Frontend Developer</h2>
       <ul>
         <li>SSAFY(2024.01 ~ 2024.12)</li>
         <li>ADSP</li>
@@ -17,9 +17,9 @@
     <td align="center" width="50%">
       <h2>📫 Contact Me</h2>
       <ul>
-        <li>**Email**: zxxv1245@naver.com</li>
-        <li>**Portfolio**: []()</li>
-        <li>**Notion**: []()</li>
+        <li><b>Email</b>: zxxv1245@naver.com</li>
+        <li><b>Portfolio</b>: </li>
+        <li><b>Notion</b>: </li>
       </ul>
     </td>
   </tr>
