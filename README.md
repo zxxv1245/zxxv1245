@@ -15,7 +15,7 @@
       </ul>
     </td>
     <td align="center" width="50%">
-      <h2>📫 Contact Me</h2>
+      <h2>Contact Me</h2>
       <ul>
         <li>Email: zxxv1245@naver.com</li>
         <li>Portfolio: </li>
