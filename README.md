@@ -58,11 +58,4 @@
 <br/>
 ![zxxv1245's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxxv1245&show_icons=true&theme=radical)
 
----
-
-## 📫 Contact Me
-- **Email**: [zxxv1245@naver.com](zxxv1245@naver.com)
-- **Portfolio**: []()
-- **Notion**: []() 
-
 </div>
