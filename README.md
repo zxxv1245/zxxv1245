@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hi there! Welcome to my GitHub Profile!
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zxxv1245)
@@ -6,6 +8,7 @@
 - SSAFY(2024.01 ~ 2024.12)
 - ADSP
 - SQLD
+
 ---
 
 ## 🛠️ Tech Stack
@@ -32,15 +35,17 @@
 ### 🛠️ Backend
 ![Django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
 
-
 ---
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxxv1245&layout=compact)
 ![zxxv1245's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxxv1245&show_icons=true&theme=radical)
+
 ---
 
 ## 📫 Contact Me
 - **Email**: [zxxv1245@naver.com](zxxv1245@naver.com)
 - **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
 - **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+</div>
