@@ -17,9 +17,9 @@
     <td align="center" width="50%">
       <h2>📫 Contact Me</h2>
       <ul>
-        <li><b>Email</b>: zxxv1245@naver.com</li>
-        <li><b>Portfolio</b>: </li>
-        <li><b>Notion</b>: </li>
+        <li>Email: zxxv1245@naver.com</li>
+        <li>Portfolio: </li>
+        <li>Notion: </li>
       </ul>
     </td>
   </tr>
