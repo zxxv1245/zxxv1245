@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=더%20나은%20사용자%20경험을%20위해%20끊임없이%20노력합니다&reversal=true&textBg=false&fontSize=30&fontAlign=50&animation=fadeIn&descAlignY=50" width="100%" >
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=코드%20먹는%20FrontEnd%20이주호&reversal=true&textBg=false&fontSize=30&fontAlign=50&animation=fadeIn&descAlignY=50" width="100%" >
 
 <div align="center">
 
